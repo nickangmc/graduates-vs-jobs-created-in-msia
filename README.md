@@ -2,6 +2,9 @@
 
 This project is just a showcase of ability to present and process data, as well as the ability to create and deploy a web app. Therefore, given the limitation on time, in-depth explanation in the data processing and analysis of the results are not the focus of this study.
 
+Please Note:
+In order for the jupyter notebook data processing programs to work, all the csv files stored in the folder 'datasets', along with those inside the subfolders will have to be in the same folder as the jupyter notebook programs. 
+
 Datasets Sources:
 
 Vacancies by State and Industry Datasets:
