@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block content %}
+    {% for post in posts %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" >{{ post.index }}</a>
+              <small class="text-muted">{{ post.subindex }}</small>
+            </div>
+            <h2><a class="article-title" >{{ post.title }}</a></h2>
+            <p class="article-content">{{ post.content }}</p>
+            {% if post.show_image == 'True' %}
+                <img src={{ post.image }} alt="something" style={{ post.image_style }}>
+            {% endif %}
+          </div>
+        </article>
+    {% endfor %}
+{% endblock content %}
