@@ -1,0 +1,23 @@
+Vacancies Industry,"Engineering, Manufacturing and Construction",Health and Welfare,Education,Service,Agriculture and Veterinary,"Social Science, Business, and Laws","Science, Maths, and Computer",Literature and Humanity,Total
+"Agriculture, Forestry & Fishing",-0.085,0.051,-0.08,0.145,0.641,0.231,0.017,0.054,0.031
+Mining & Quarrying,-0.095,0.126,-0.131,0.139,0.608,0.372,0.108,0.108,-0.003
+Manufacturing,0.086,-0.207,0.848,-0.194,-0.244,-0.018,0.302,-0.065,0.498
+"Electricity, Gas, Steam & Air Conditioning Supply",-0.136,0.169,0.612,-0.033,0.363,0.462,0.367,0.148,0.07
+"Water Supply, Sewerage, Waste Management & Remediation Activities",0.17,-0.02,0.169,-0.149,-0.361,0.209,0.143,0.091,0.251
+Construction,0.407,-0.284,0.848,0.233,-0.043,0.577,0.711,-0.237,0.632
+"Wholesale & Retail Trade, Repair of Motor Vehicles & Motorcycles",0.024,0.014,0.652,0.429,0.298,0.711,0.462,0.008,0.404
+Transportation & Storage,0.495,-0.25,0.859,0.25,-0.214,0.733,0.799,0.062,0.692
+Accomodation & Food Service Activities,0.406,-0.236,0.786,0.346,-0.037,0.748,0.711,-0.168,0.646
+Information & Communication,0.362,0.031,0.72,0.543,-0.144,0.761,0.723,-0.107,0.526
+Financial & Insurance / Takaful Activities,0.442,-0.403,0.304,0.479,-0.149,0.787,0.736,-0.52,0.571
+Real Estate Activities,0.217,-0.203,0.467,0.459,0.425,0.57,0.41,0.101,0.251
+"Professional, Scientific & Technical Activities",-0.076,0.023,0.227,0.032,0.432,0.492,0.409,0.224,0.03
+Administrative & Support Service Activities,0.596,-0.483,0.752,0.329,-0.246,0.776,0.745,0.1,0.613
+Public Administration & Defence,0.371,0.596,0.694,0.481,-0.132,0.779,0.753,0.288,0.658
+Education,0.009,-0.149,0.29,0.37,0.181,0.483,0.329,-0.244,0.128
+Human Health & Social Work Activities,0.123,0.545,0.233,0.845,-0.117,0.612,0.587,0.57,0.395
+"Arts, Entertainment & Recreational",0.432,-0.255,0.837,0.302,-0.143,0.578,0.768,-0.178,0.708
+Other Service Activities,0.336,-0.01,0.628,0.388,0.202,0.837,0.678,0.018,0.504
+Activities of Households as Employers,0.23,-0.288,0.595,-0.18,-0.27,-0.139,-0.172,-0.048,-0.044
+Activities of Extraterritorial Organisation & Bodies,0.413,-0.335,0.634,0.039,-0.195,0.133,0.437,-0.267,0.507
+Total,0.219,-0.157,0.811,0.133,0.13,0.456,0.548,-0.055,0.608
