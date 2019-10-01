@@ -5,10 +5,10 @@ This project is a showcase of my ability to the technical test required as part 
 Please Note:
 In order for the jupyter notebook data processing programs to work, all the csv files stored in the folder 'datasets', along with those inside the subfolders will have to be in the same folder as the jupyter notebook programs. 
 
-#### Web App
+### Web App
 Link: https://graduates-vs-jobs-created.herokuapp.com/
 
-#### Datasets Sources:
+### Datasets Sources:
 
 Vacancies by State and Industry Datasets:
 
