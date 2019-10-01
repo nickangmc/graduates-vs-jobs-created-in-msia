@@ -2,13 +2,13 @@
 
 This project is a showcase of my ability to the technical test required as part of the internship hiring process in Nov 2018. My task was to present and process data, as well as to create and deploy a simple static web app using flask framework within the shortest time possible. Therefore, given the limitation on time, in-depth explanation in the data processing and analysis of the results are not the focus of this study.
 
-Web App: https://graduates-vs-jobs-created.herokuapp.com/
-
 Please Note:
 In order for the jupyter notebook data processing programs to work, all the csv files stored in the folder 'datasets', along with those inside the subfolders will have to be in the same folder as the jupyter notebook programs. 
 
+#### Web App
+Link: https://graduates-vs-jobs-created.herokuapp.com/
 
-Datasets Sources:
+#### Datasets Sources:
 
 Vacancies by State and Industry Datasets:
 
